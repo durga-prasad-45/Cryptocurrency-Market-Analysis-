@@ -6,7 +6,7 @@
 
 This project focuses on **collecting, cleaning, and analyzing cryptocurrency market data** from CoinMarketCap. The dataset was obtained through **web scraping techniques** and analyzed using Python data science libraries.
 
-The goal of the project is to understand ** cryptocurrency market trends, price movements, market capitalization, and trading volumes ** through **data preprocessing and visualization techniques**.
+The goal of the project is to understand **cryptocurrency market trends, price movements, market capitalization, and trading volumes** through **data preprocessing and visualization techniques**.
 
 The project follows a complete **Data Science workflow** including:
 
@@ -236,4 +236,3 @@ This project demonstrates:
 It provides a **practical understanding of cryptocurrency market behavior using data science tools**.
 
 ---
-
