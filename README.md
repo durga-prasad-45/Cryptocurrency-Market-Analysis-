@@ -1,5 +1,3 @@
----
-
 # 📊 Cryptocurrency Market Analysis
 
 ## 📌 Project Overview
@@ -234,5 +232,3 @@ This project demonstrates:
 * **Visualization of financial datasets**
 
 It provides a **practical understanding of cryptocurrency market behavior using data science tools**.
-
----
